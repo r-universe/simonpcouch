@@ -1,0 +1,10 @@
+[
+  {
+    "package": "anyflights",
+    "oncran": true
+  },
+  {
+    "package": "gbfs",
+    "oncran": true
+  }
+]

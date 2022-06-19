@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "anyflights"]
+	path = anyflights
+	url = https://github.com/simonpcouch/anyflights
+	shallow = true
+	registered = true
+[submodule "gbfs"]
+	path = gbfs
+	url = https://github.com/simonpcouch/gbfs
+	shallow = true
+	registered = true
