@@ -1,10 +1,10 @@
 [
   {
-    "package": "anyflights",
+    "package": "gbfs",
     "oncran": true
   },
   {
-    "package": "gbfs",
+    "package": "anyflights",
     "oncran": true
   }
 ]
