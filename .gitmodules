@@ -5,6 +5,9 @@
 [submodule "anyflights"]
 	path = anyflights
 	url = https://github.com/simonpcouch/anyflights
+[submodule "detectors"]
+	path = detectors
+	url = https://github.com/simonpcouch/detectors
 [submodule "gbfs"]
 	path = gbfs
 	url = https://github.com/simonpcouch/gbfs
