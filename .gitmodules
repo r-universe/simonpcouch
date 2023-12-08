@@ -11,3 +11,6 @@
 [submodule "gbfs"]
 	path = gbfs
 	url = https://github.com/simonpcouch/gbfs
+[submodule "readmission"]
+	path = readmission
+	url = https://github.com/simonpcouch/readmission
