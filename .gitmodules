@@ -8,6 +8,9 @@
 [submodule "detectors"]
 	path = detectors
 	url = https://github.com/simonpcouch/detectors
+[submodule "forested"]
+	path = forested
+	url = https://github.com/simonpcouch/forested
 [submodule "gbfs"]
 	path = gbfs
 	url = https://github.com/simonpcouch/gbfs
