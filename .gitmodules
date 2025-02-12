@@ -17,6 +17,9 @@
 [submodule "readmission"]
 	path = readmission
 	url = https://github.com/simonpcouch/readmission
+[submodule "streamy"]
+	path = streamy
+	url = https://github.com/simonpcouch/streamy
 [submodule "syrup"]
 	path = syrup
 	url = https://github.com/simonpcouch/syrup
