@@ -11,6 +11,9 @@
 [submodule "forested"]
 	path = forested
 	url = https://github.com/simonpcouch/forested
+[submodule "gander"]
+	path = gander
+	url = https://github.com/simonpcouch/gander
 [submodule "gbfs"]
 	path = gbfs
 	url = https://github.com/simonpcouch/gbfs
