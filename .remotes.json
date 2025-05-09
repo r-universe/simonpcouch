@@ -4,5 +4,11 @@
     "url": "https://github.com/simonpcouch/streamy",
     "via": ["chores"],
     "from": "chores"
+  },
+  {
+    "package": "streamy",
+    "url": "https://github.com/simonpcouch/streamy",
+    "via": ["gander"],
+    "from": "gander"
   }
 ]
